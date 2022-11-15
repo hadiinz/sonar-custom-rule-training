@@ -1,0 +1,13 @@
+<p>For a class having an EntityManager field, the class's name must have Dao at the end.</p>
+
+<h2>Noncompliant Code Example</h2>
+<pre>
+public class EntityManagerCheckSample{ EntityManager entityManager;// Noncompliant
+}
+</pre>
+
+<h2>Compliant Solution</h2>
+<pre>
+public class EntityManagerCheckSampleDao{ EntityManager entityManager;// Compliant
+}
+</pre>

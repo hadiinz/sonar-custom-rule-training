@@ -1,0 +1,5 @@
+# Created at ۲۰۲۲-۱۰-۱۹T۱۶:۵۲:۰۲.۵۲۹
+Boot Manifest-JAR contains absolute paths in classpath 'E:\sonar rule\thp-java-custom-rules\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

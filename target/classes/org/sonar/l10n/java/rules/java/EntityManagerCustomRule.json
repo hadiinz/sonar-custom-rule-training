@@ -1,0 +1,11 @@
+{
+  "title": "For a class having an EntityManager field, the class's name must have Dao at the end.",
+  "type": "Bug",
+  "status": "ready",
+  "tags": [
+    "bugs",
+    "gandalf",
+    "magic"
+  ],
+  "defaultSeverity": "Critical"
+}
